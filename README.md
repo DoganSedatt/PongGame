@@ -1,8 +1,10 @@
 # PongGame
 Çok temel düzeyde yaptığım pong oyunu
 
-Ana Menü:(https://user-images.githubusercontent.com/79220327/197041437-3a57a8d1-8afc-417c-af5d-d99b3ad0a0ae.PNG)
+Ana Menü:![Ekran Alıntısı2](https://user-images.githubusercontent.com/79220327/197041534-f04da2fb-f941-4391-9d73-3704ba569200.PNG)
 
-Oyun Ekranı:(https://user-images.githubusercontent.com/79220327/197040785-80f4e519-e1dd-45b9-9b37-7dc89657f59a.PNG)
+Oyun Ekranı:![Ekran Alıntısı](https://user-images.githubusercontent.com/79220327/197041567-903ed72c-a4e6-4e2f-83cc-1e23873839f4.PNG)
 
 Soldaki oyuncu:W/S tuşlarını, sağdaki oyuncu yukarı ve aşağı ok tuşlarını kullanır.
+
+
